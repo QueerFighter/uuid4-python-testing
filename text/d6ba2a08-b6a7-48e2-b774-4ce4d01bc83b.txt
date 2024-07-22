@@ -1,0 +1,1 @@
+{"posts": "https://raw.githubusercontent.com/QueerFighter/uuid4-python-testing/main/text/8a2c719f-b371-4a0e-b99c-a15733eac684.txt", "stories": "https://raw.githubusercontent.com/QueerFighter/uuid4-python-testing/main/text/0324637d-241c-466f-9b6e-fb3bc6ab3186.txt"}
